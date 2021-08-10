@@ -30,7 +30,7 @@ When you are able to use fitteia with some proficiency you can upload one of the
 
 In this repository you will find also a template for the fitteia->Plotter module that contains a comparison between the projections made using the model fitted parameters to the data untill 14 March 2021.
 
-Please contact one of the author of the manuscript in case of need for assistence.
+Please contact one of the authors in case of need some assistence.
 
 Pedro Sebastião
 Maria Beira
