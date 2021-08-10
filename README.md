@@ -16,7 +16,7 @@ click fitter->Upload, browse the ".sav" files you have downloaded and select one
 
 Choose->Upload->Return to the working folder.
 
-Select fitter->Expert mode by clicking on the respective link.
+Select fitter->Master mode by clicking on the respective link.
 
 Select one of the files starting with IT, DE, CA, IR, CH, JP, IL, AT, KR, IS, NZ and click Recover.
 
